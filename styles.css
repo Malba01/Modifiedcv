@@ -1,0 +1,28 @@
+.top-container{
+  background-color: #C8E3D4;
+  text-align: center;
+  position:relative;
+  padding-top: 100px;
+}
+h1{
+  margin-top:0;
+  margin-bottom:0;
+  font-family:'Sacramento', cursive;
+}
+.bottom-cloud{
+  position:absolute;
+  left:350px;
+  top:250px;
+}
+.top-cloud{
+  position:absolute;
+ right: 350px;
+ top:50px;
+}
+
+.middle-container {
+  text-align:center;
+}
+.bottom-container {
+  text-align:center;
+}
